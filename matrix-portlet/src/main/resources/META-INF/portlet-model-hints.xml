@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="ram.gameport.service.matrix.model.Matrix">
+		<field name="matrixId" type="long" />
+		<field name="matrixName" type="String" />
+		<field name="positionX" type="int" />
+		<field name="positionY" type="int" />
+		<field name="dataType" type="String" />
+		<field name="dataValue" type="String" />
+	</model>
+</model-hints>

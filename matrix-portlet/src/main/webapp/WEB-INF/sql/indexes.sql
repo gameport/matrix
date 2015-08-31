@@ -1,0 +1,1 @@
+create index IX_B4064DF2 on matrixService_Matrix (matrixName);
