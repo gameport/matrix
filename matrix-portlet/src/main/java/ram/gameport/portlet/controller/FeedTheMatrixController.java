@@ -16,7 +16,6 @@ import ram.gameport.service.matrix.service.MatrixLocalServiceUtil;
 
 import javax.portlet.ActionRequest;
 import javax.portlet.ActionResponse;
-import javax.portlet.ProcessAction;
 
 /**
  * Created by gamport.
